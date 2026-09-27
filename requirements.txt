@@ -1,0 +1,2 @@
+# 本项目只用 Python 标准库，无需第三方依赖
+# (urllib, sqlite3, http.server, json, threading 都是内置)
